@@ -1,0 +1,19 @@
+﻿# Build folders
+cmake-build-*/
+build/
+*.o
+*.obj
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# CLion/JetBrains
+.idea/
+*.iml
+
+# System files
+.DS_Store
+Thumbs.db
